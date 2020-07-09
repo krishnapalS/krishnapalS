@@ -49,6 +49,9 @@ Here are some ideas to get you started:
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/krishna-pal-deora-b4542b171/)
+&nbsp;
+
 # Hi there 👋
 
 ## -> Myself Krishna Pal Deora from Sirohi,Rajasthan,India.
