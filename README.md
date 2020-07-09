@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Myself Krishna Pal Deora from Sirohi,Rajasthan,India./
+Myself Krishna Pal Deora from Sirohi,Rajasthan,India.\
 Pursuing Integrated M.Tech. in Mathematics & Computing (2018-2023) at IIT(ISM) Dhanbad.
 Skilled at Python, C, C++,Competitive Coding and Stock market Trading.
 Impeccable knowledge for initiating applications with Algorithms, Data structures, Binary tree, Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing,Convolutional Neural Networks, Recurrent Neural Networks, and Computer Vision.
