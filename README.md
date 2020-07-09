@@ -52,12 +52,12 @@ Here are some ideas to get you started:
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
+[1]: https://twitter.com/deorakp1
+[2]: https://www.facebook.com/krishnapal.deora.31/
 [3]: https://plus.google.com/+CarlSednaoui
 [4]: http://carlsed.tumblr.com
 [5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+[6]: http://www.github.com/krishnapalS
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
