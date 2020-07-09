@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://drive.google.com/uc?export=view&id=1I--S5jvV_48Gi6zfPAZzYf1URUYFiT-V" width="2000" align="center" height="500">
+<img src="https://drive.google.com/uc?export=view&id=1I--S5jvV_48Gi6zfPAZzYf1URUYFiT-V" width="1500" align="center" height="500">
 
 ## -> Myself Krishna Pal Deora from Sirohi,Rajasthan,India.
 ## -> Pursuing Integrated M.Tech. in Mathematics & Computing (2018-2023) at IIT(ISM) Dhanbad.
