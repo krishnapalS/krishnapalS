@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 [1]: https://twitter.com/deorakp1
 [2]: https://www.facebook.com/krishnapal.deora.31/
 [6]: http://www.github.com/krishnapalS
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/krishna-pal-deora-b4542b171/)
+&nbsp;
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
