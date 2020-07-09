@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **krishnapalS/krishnapalS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Myself Krishna Pal Deora from Sirohi,Rajasthan,India.\
-##Pursuing Integrated M.Tech. in Mathematics & Computing (2018-2023) at IIT(ISM) Dhanbad.\
-##Skilled at Python, C, C++,Competitive Coding and Stock market Trading.\
-##Impeccable knowledge for initiating applications with Algorithms, Data structures, Binary tree, Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing,Convolutional Neural Networks, Recurrent Neural Networks, and Computer Vision.\
-##An active sports person with leadership & public speaking skills. I love to take part in machine learning competitions at Kaggle. Being a student, I want to enhance my educational and professional skills by working in a positive environment. Learn and implement new skill and technologies for the betterment of the organization and to utilize my strong sense of dedication, motivation and responsibility.\
+## Myself Krishna Pal Deora from Sirohi,Rajasthan,India.\
+## Pursuing Integrated M.Tech. in Mathematics & Computing (2018-2023) at IIT(ISM) Dhanbad.\
+## Skilled at Python, C, C++,Competitive Coding and Stock market Trading.\
+## Impeccable knowledge for initiating applications with Algorithms, Data structures, Binary tree, Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing,Convolutional Neural Networks, Recurrent Neural Networks, and Computer Vision.\
+## An active sports person with leadership & public speaking skills. I love to take part in machine learning competitions at Kaggle. Being a student, I want to enhance my educational and professional skills by working in a positive environment. Learn and implement new skill and technologies for the betterment of the organization and to utilize my strong sense of dedication, motivation and responsibility.
 
