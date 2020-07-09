@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <!--
 **krishnapalS/krishnapalS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://drive.google.com/uc?export=view&id=1I--S5jvV_48Gi6zfPAZzYf1URUYFiT-V" width="700" align="center" height="300">
+
+# Hi there 👋
 
 ## -> Myself Krishna Pal Deora from Sirohi,Rajasthan,India.
 ## -> Pursuing Integrated M.Tech. in Mathematics & Computing (2018-2023) at IIT(ISM) Dhanbad.
