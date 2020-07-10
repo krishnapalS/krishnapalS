@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 [2]: https://www.facebook.com/krishnapal.deora.31/
 [6]: http://www.github.com/krishnapalS
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/krishna-pal-deora-b4542b171/)
+[![Gmail Badge](https://img.shields.io/badge/-sejalc230@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sejalc230@gmail.com)](kpsd4050@gmail.com)
 &nbsp;
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
