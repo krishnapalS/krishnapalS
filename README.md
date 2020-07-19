@@ -38,3 +38,5 @@ Here are some ideas to get you started:
 ## -> Learn and implement new skill and technologies for the betterment of the organization and to utilize my strong sense of dedication, motivation and responsibility.
 
 <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=krishnapalS)](https://github.com/anuraghazra/github-readme-stats)
