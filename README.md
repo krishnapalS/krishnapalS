@@ -1,6 +1,6 @@
 <!--
 **krishnapalS/krishnapalS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 <img src="https://drive.google.com/uc?export=view&id=1QIL-dHbyVdkrezC_tWSjGIm6SZPe3Zi8" width="780" align="center" height="200">
 
@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 
 # Hi there 👋
 
-## -> Myself Krishna Pal Deora from Sirohi,Rajasthan,India.
-## -> Pursuing Integrated M.Tech. in Mathematics & Computing (2018-2023) at IIT(ISM) Dhanbad.
-## -> Skilled at Python, C, C++,Competitive Coding and Stock market Trading.
-## -> Impeccable knowledge for initiating applications with Algorithms, Data structures, Binary tree, Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing,Convolutional Neural Networks, Recurrent Neural Networks, and Computer Vision.
-## -> An active sports person with leadership & public speaking skills. 
-## -> Love to take part in machine learning competitions at Kaggle. 
-## -> Want to enhance my educational and professional skills by working in a positive environment. 
-## -> Learn and implement new skill and technologies for the betterment of the organization and to utilize my strong sense of dedication, motivation and responsibility.
+### -> I'm from Sirohi,Rajasthan,India.
+### -> Pursuing Integrated M.Tech. in Mathematics & Computing (2018-2023) at IIT(ISM) Dhanbad.
+### -> Skilled at Python, C, C++,Competitive Coding and Stock market Trading.
+### -> Impeccable knowledge for initiating applications with Algorithms, Data structures, Binary tree, Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing,Convolutional Neural Networks, Recurrent Neural Networks, and Computer Vision.
+### -> An active sports person with leadership & public speaking skills. 
+### -> Love to take part in machine learning competitions at Kaggle. 
+### -> Want to enhance my educational and professional skills by working in a positive environment. 
+### -> Learn and implement new skill and technologies for the betterment of the organization and to utilize my strong sense of dedication, motivation and responsibility.
 
 <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
 
