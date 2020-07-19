@@ -40,3 +40,5 @@ Here are some ideas to get you started:
 <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=krishnapalS&show_icons=true&hide="issues"&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krishnapalS&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
