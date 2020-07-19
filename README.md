@@ -37,6 +37,4 @@ Here are some ideas to get you started:
 ## -> Want to enhance my educational and professional skills by working in a positive environment. 
 ## -> Learn and implement new skill and technologies for the betterment of the organization and to utilize my strong sense of dedication, motivation and responsibility.
 
-![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true)
-
 <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
