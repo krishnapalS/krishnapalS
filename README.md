@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://drive.google.com/uc?export=view&id=1I--S5jvV_48Gi6zfPAZzYf1URUYFiT-V" width="700" align="center" height="300">
+<img src="https://drive.google.com/uc?export=view&id=1QIL-dHbyVdkrezC_tWSjGIm6SZPe3Zi8" width="700" align="center" height="300">
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
