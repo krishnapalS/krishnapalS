@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=krishnapalS)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=krishnapalS&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
