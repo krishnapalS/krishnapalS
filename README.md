@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/krishna-pal-deora-b4542b171/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="http://www.github.com/krishnapalS"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/krishnapal.deora.31/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:kpsd4050@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
+<a href="mailto:kpsd4050@gmail.com"><img src="https://github.com/krishnapalS/logo/blob/master/gmail.png" width="40" /></a>
 <a href="https://twitter.com/deorakp1"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/kpdeora.silwani/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/instagram.png" width="40" /></a>
 
