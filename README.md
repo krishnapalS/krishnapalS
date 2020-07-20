@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/krishnapalS/logo/blob/master/white_banner.jpg"><img src="https://github.com/krishnapalS/logo/blob/master/white_banner.jpg" width="780" align="center" height="200" /></a>
+<a href="https://github.com/krishnapalS/logo/blob/master/white_banner.jpg"><img src="https://github.com/krishnapalS/logo/blob/master/white_banner.jpg" width="780" height="200" /></a>
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
